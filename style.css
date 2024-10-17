@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+    background-color:darkolivegreen;
+}
+
+#gameCanvas {
+    background-color: brown;
+    border: 2px solid black;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5%;
+}
